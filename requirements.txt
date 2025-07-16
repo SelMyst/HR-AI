@@ -1,0 +1,10 @@
+flask
+transformers
+langchain
+langchain-community
+faiss-cpu
+PyPDF2
+python-docx
+pdfplumber
+python-dotenv
+tqdm
